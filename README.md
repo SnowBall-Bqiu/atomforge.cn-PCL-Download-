@@ -14,6 +14,7 @@ AtomForge 我的世界服务器客户端下载github分流
 🕒 预计下载时间：2-5分钟（视网络情况）
 
 #### 备用下载
+- [Github分流](https://github.com/wsxqyy/atomforge.cn-PCL-Download-/releases/download/V1.0/atomforge_pcl_v1.0.7z)
 - [备用链接1](https://download.atomforge.cn/api/v3/file/get/1/atomforge_pcl_v1.0.7z?sign=uxvkpDl5ZKdtfyZ5lCEfQ5RSbSl2ffjp68F1-VCx0-k%3D%3A0)  
 - [备用链接2](https://download.atomforge.cn/s/oGHN)  
 - [备用链接3](https://download.node.atomforge.cn/s/DvtO)
