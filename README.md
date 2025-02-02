@@ -21,7 +21,7 @@ AtomForge 我的世界服务器客户端下载github分流
 
 #### 安装说明
 1. 下载完成后，请使用7-Zip或WinRAR解压
-2. 运行`AtomForge_Launcher.exe`
+2. 运行`Plain Craft Launcher 2.exe`
 3. 按照提示完成安装
 4. 首次启动可能需要5-10分钟初始化
 ---
