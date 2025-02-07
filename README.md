@@ -4,21 +4,26 @@ AtomForge 我的世界服务器客户端下载github分流
 
 ## 客户端下载
 
-### 最新版本：V1.0
+### 最新版本：V2.0
 
 > **重要提示**：建议使用迅雷等下载工具以获得更稳定的下载体验
 
 #### 下载链接
-🔗 [主下载链接](https://download.node.atomforge.cn/api/v3/file/get/1/atomforge_pcl_v1.0.7z?sign=UHuoZppzRUa5_wDNhy74RW8s2Y27k9d9AQ9Po3P7TFo%3D%3A0)  
-📦 文件大小：500MB
-🕒 预计下载时间：2-5分钟（视网络情况）
+🔗 [主下载链接](https://download.node.atomforge.cn/api/v3/file/get/5/atomforge_pcl_v2.0.zip?sign=R5CocwMrdpRzIYhW7lAXZFosTwuIEMyDalyOQZCLulY%3D%3A0)
+
+🔗 [Github镜像站分流最快](https://gh.llkk.cc/https://github.com/wsxqyy/atomforge.cn-PCL-Download-/releases/download/V2.0/atomforge_pcl_v2.0.zip)
+ 
+   [网盘分流免登陆（很快）](https://www.123684.com/s/I6Mijv-QuaNA)
+
+📦 文件大小：1.2GB
+🕒 预计下载时间：3-6分钟（Github镜像站一分钟之内即可，其他链接视网络情况）
 
 #### 备用下载
-- [Github分流](https://github.com/wsxqyy/atomforge.cn-PCL-Download-/releases/download/V1.0/atomforge_pcl_v1.0.7z)
-- [备用链接1](https://download.atomforge.cn/api/v3/file/get/1/atomforge_pcl_v1.0.7z?sign=uxvkpDl5ZKdtfyZ5lCEfQ5RSbSl2ffjp68F1-VCx0-k%3D%3A0)  
-- [备用链接2](https://download.atomforge.cn/s/oGHN)  
-- [备用链接3](https://download.node.atomforge.cn/s/DvtO)
-
+- [备用链接1](https://download.atomforge.cn/api/v3/file/get/2/atomforge_pcl_v2.0.zip?sign=wwVEvdhM4FhyqoxUSui9Tp-SEBUBFUJcpNd5sa3zBtQ%3D%3A0)  
+- [备用链接2](https://download.atomforge.cn/s/Nkir)  
+- [备用链接3](https://download.node.atomforge.cn/s/KxiP)
+- [Github镜像站分流](https://gh.llkk.cc/https://github.com/wsxqyy/atomforge.cn-PCL-Download-/releases/download/V2.0/atomforge_pcl_v2.0.zip)
+---
 #### 安装说明
 1. 下载完成后，请使用7-Zip或WinRAR解压
 2. 运行`Plain Craft Launcher 2.exe`
@@ -27,16 +32,20 @@ AtomForge 我的世界服务器客户端下载github分流
 ---
 ## 版本更新历史
 
-### 当前版本：V1.0
-- **发布日期**：2025年2月1日
+### 当前版本：V2.0
+- **发布日期**：2025年2月7日
 
 ### 历史版本
 
 | 版本 | 更新时间 | 主要特性 |
 |------|----------|----------|
 | V1.0 | 2025.2.1 | 初始正式版发布 |
+| V2.0 | 2025.2.7 | 加入了更多生存要素，装饰工艺，科技枪，optifine，等价交换 |
 
 ---
+
+### 历史版本永久保存链接
+[github](https://github.com/wsxqyy/atomforge.cn-PCL-Download-/releases)
 
 ## 常见问题
 
