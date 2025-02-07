@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>即将跳转到官网</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            text-decoration: none; /* 移除下划线 */
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .countdown {
+          margin-top: 10px;
+          color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>即将访问官网</h1>
+    <a href="https://www.atomforge.cn/" id="jumpButton"><button>立即跳转</button></a>
+     <p class="countdown">2秒后自动跳转...</p>
+
+    <script>
+        // 设定目标 URL
+        const targetURL = "https://www.atomforge.cn/";
+
+        // 立即跳转按钮的点击事件
+        document.getElementById("jumpButton").addEventListener("click", function(event) {
+            // event.preventDefault(); // 如果您不希望在点击按钮时立即通过 <a> 标签跳转，请取消此注释
+            window.location.href = targetURL;
+        });
+
+        // 2秒后自动跳转
+        setTimeout(function() {
+            window.location.href = targetURL;
+        }, 2000); // 2000 毫秒 = 2 秒
+    </script>
+</body>
+</html>
